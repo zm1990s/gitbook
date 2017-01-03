@@ -1,12 +1,4 @@
----
-layout: post
-title:  "VSAN 6.2 设计指南"
-date:   2017-01-02
-categories: VSAN
-tags: VSAN 6.2
----
-* content
-{:toc}
+
 
 >此文章假设读者已有基础VSAN知识或实施经验。
 写了一半，感觉完全是在写VSAN考试大纲...
