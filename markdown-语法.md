@@ -14,9 +14,11 @@
 
 **正文**首字加粗，本文链接为： [链接](http://books.halfcoffee.com)
 
-这是我 ：![我的照片](/assets/snapshot233.png)
+这是我 ：
+![我的照片](/assets/snapshot233.png)
 
-<span style="color:yellow;">这是彩色文字的示例</span>
+
+<span style="color:green;">这是彩色文字的示例</span>
 
 
 
